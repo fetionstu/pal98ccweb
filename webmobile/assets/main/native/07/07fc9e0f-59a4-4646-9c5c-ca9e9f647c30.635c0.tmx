@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.0" orientation="orthogonal" renderorder="right-down" width="65" height="65" tilewidth="32" tileheight="16" infinite="1" nextlayerid="4" nextobjectid="6">
+ <imagelayer id="2" name="mapbg">
+  <image source="villageMarket.png" width="2064" height="2056"/>
+ </imagelayer>
+ <objectgroup id="3" name="entrypos">
+  <object id="1" x="1154" y="1374">
+   <point/>
+  </object>
+  <object id="2" x="658" y="1257">
+   <point/>
+  </object>
+  <object id="3" x="400" y="1354">
+   <point/>
+  </object>
+  <object id="4" x="335" y="1608">
+   <point/>
+  </object>
+  <object id="5" x="611" y="1716">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

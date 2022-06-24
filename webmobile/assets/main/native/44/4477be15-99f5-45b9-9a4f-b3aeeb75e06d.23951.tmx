@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="16" infinite="1" nextlayerid="4" nextobjectid="2">
+ <imagelayer id="2" name="mapbg" offsetx="-366" offsety="-199">
+  <image source="villageDrugs.png" width="2064" height="2056"/>
+ </imagelayer>
+ <objectgroup id="3" name="entrypos">
+  <object id="1" x="625" y="1336.5">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

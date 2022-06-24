@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="2">
+ <imagelayer id="2" name="mapbg">
+  <image source="hotelRoom3.png" width="490" height="297"/>
+ </imagelayer>
+ <objectgroup id="3" name="entrypos">
+  <object id="1" x="131" y="205">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
